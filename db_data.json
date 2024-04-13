@@ -1,0 +1,24 @@
+{
+  "frutas": {
+    "maçã": "maçã",
+    "pera": "pera",
+    "banana": "banana",
+    "goiaba": "goiaba",
+    "amora": "amora",
+    "limao": "limao"
+  },
+  "filmes": [
+    {
+      "id": "filme-03",
+      "nome": "O vento não levou parte 1",
+      "ano": 1961,
+      "genero": "romance"
+    },
+    {
+      "id": "filme-01",
+      "nome": "O vento não levou parte 1",
+      "ano": 1961,
+      "genero": "romance"
+    }
+  ]
+}
