@@ -1,2 +1,2 @@
-# atividade-sdm-2024-1-servidor-crud
-Atividade de CRUD de endpoint FILMES conforme modelo passado pelo professor.
+# servidor-crud
+CRUD com endpoint FILMES utilizando banco de dados em arquivo.
